@@ -8,4 +8,12 @@ more on the tone of TA algorithmic trading, with backtesting.
 
 And the comments on that video are only bots!!!!!
 
+## Subheader
+
+Watch tutorial on youtube
+
 https://www.youtube.com/watch?v=xfzGZB4HhEE&t=1041s
+
+## Local development
+
+open Jupyter-notebook files locally using python
